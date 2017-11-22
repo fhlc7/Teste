@@ -6,5 +6,6 @@ public class Teste {
 		System.out.println("Outro Teste");
 		System.out.println("Mais um Teste");
 		System.out.println("Só Mais um Teste");
+		System.out.println("Deu certo");
 	}
 }
